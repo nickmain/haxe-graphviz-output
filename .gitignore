@@ -1,5 +1,13 @@
-# Object file
-*.o
+# Build and Release Folders
+out/
+bin/
+bin-debug/
+bin-release/
+build
 
-# Ada Library Information
-*.ali
+# Other files and folders
+.settings/
+
+# Intellij cruft
+*.iml
+.idea
